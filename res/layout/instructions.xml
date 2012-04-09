@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+<TextView android:text="Welcome to Destructo! Use the two analog sticks to control to control the rotation and movement of your ship. Your ship will fire automatically. Destroy the red and blue geometry to earn points, but don't run into them! Warning: the first time running the game might be a little buggy. Just restart it (by pressing back and play again). You can only have 5 bullets on the screen at a time, so it pays to be accurate. If an enemy spawns on top of you, you can 2 seconds to get away!" android:id="@+id/textView1" android:layout_width="fill_parent" android:layout_height="wrap_content"></TextView>
+</LinearLayout>
